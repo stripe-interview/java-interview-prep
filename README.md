@@ -52,6 +52,6 @@ files, but want you to quickly get them up and running.
 
 ## Useful References:
 - [Installing Maven](https://maven.apache.org/install.html)
-  - [using Homebrew, on OS X](http://brewformulas.org/Maven)
+  - [using Homebrew, on OS X](https://formulae.brew.sh/formula/maven)
   - [more instructions for Windows](https://maven.apache.org/guides/getting-started/windows-prerequisites.html)
 - [Apache Maven FAQ](https://maven.apache.org/general.html)
