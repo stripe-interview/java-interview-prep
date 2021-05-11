@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <java.version>1.8</java.version>
-    <guava.version>18.0</guava.version>
+    <guava.version>30.1.1-jre</guava.version>
     <junit.version>4.13.1</junit.version>
   </properties>
 
