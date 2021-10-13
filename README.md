@@ -37,7 +37,7 @@ after maven is setup:
 
 ## I prefer Gradle/Pants/Ivy/Makefiles/Bespoke Bash Scripts, do I need to use this?
 
-If you know prefer different configuration files, that's awesome.
+If you prefer different configuration files, that's awesome.
 Some interview questions may ask to implement something from nothing,
 and some may want to watch you interact with a pre-existing codebase.
 For the former, it doesn't matter what you use, as long as you're able
